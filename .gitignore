@@ -1,0 +1,6 @@
+.idea/*
+dataset/*
+__pycache__/*
+*__pycache__*
+homcount/data/*
+homcount/dataset_conversion/*

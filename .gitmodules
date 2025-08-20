@@ -1,0 +1,6 @@
+[submodule "HomSub"]
+	path = homcount/HomSub
+	url = https://github.com/pindri/HomSub
+[submodule "homcount/HomSub"]
+	path = homcount/HomSub
+	url = http://github.com/pindri/HomSub
