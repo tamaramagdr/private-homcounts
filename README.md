@@ -1,4 +1,4 @@
-# happy-giggle
+# private-homcounts 
 Private and expressive graph representation learning.
 
 ## How to use
