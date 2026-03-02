@@ -3,7 +3,7 @@ This repository contains the code for the ICLR 2026 paper "On The Trade-Off Betw
 
 ## How to use
 Clone the repository as usual and install the requirements.
-To include the `homcount` submodule, clone with the `--recurse-submodules` flag.
+To include the `homcount/HomSub/` submodule, clone with the `--recurse-submodules` flag.
 
 The repository uses [Git Large File Storage (Git LFS)](https://git-lfs.github.com/) to manage large files.
 Make sure you have Git LFS installed and then run:
