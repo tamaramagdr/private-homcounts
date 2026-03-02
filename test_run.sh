@@ -1,5 +1,7 @@
 #!/bin/bash
 
+mkdir -p results/test
+
 datasets=(molhiv molbace molbbbp mollipo github_stargazers reddit-binary reddit-multi-5k)
 
 base_args=(
