@@ -1,0 +1,6 @@
+[submodule "HomSub"]
+	path = homcount/HomSub
+	url = https://github.com/pwelke/HomSub
+[submodule "homcount/HomSub"]
+	path = homcount/HomSub
+	url = https://github.com/pwelke/HomSub

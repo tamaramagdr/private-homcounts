@@ -1,0 +1,14 @@
+.idea/*
+tmp/*
+tmp/backup/*
+dataset/*
+data2/*
+data/ogbg*
+data/TUDataset*
+results/test/*
+homcount/HomSub/*
+homcount/pygdata*
+__pycache__/*
+*__pycache__*
+homcount/data/*
+homcount/dataset_conversion/*

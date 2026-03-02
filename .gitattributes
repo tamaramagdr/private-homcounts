@@ -1,0 +1,3 @@
+*.homson filter=lfs diff=lfs merge=lfs -text
+*.hom filter=lfs diff=lfs merge=lfs -text
+*.patterns filter=lfs diff=lfs merge=lfs -text
